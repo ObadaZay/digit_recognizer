@@ -2,6 +2,16 @@ import tensorflow.keras
 from PIL import Image, ImageOps
 import numpy as np
 
+#Made for AI Term Project
+#Team Members:
+# Obada Zayadneh
+# Hasan AbuFares
+# Yaqoub Alqara'een
+# Amjad Shabaneh
+# Osama Almasseimi
+# Hussam Abu Asbeh
+
+
 # Disable scientific notation for clarity
 np.set_printoptions(suppress=True)
 
